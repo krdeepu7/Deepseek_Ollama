@@ -58,6 +58,5 @@ Once the installation is complete, access Open WebUI in your browser:
 ## License
 This project follows the respective licenses of **Ollama, Deepseek, and Open WebUI**. Ensure compliance when using these tools.
 
----
-🚀 **Happy Coding!** Follow my journey in **#100DaysOfCode** for more AI explorations!
+
 
