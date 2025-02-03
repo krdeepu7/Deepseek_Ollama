@@ -54,7 +54,6 @@ Once the installation is complete, access Open WebUI in your browser:
 
 ## Future Improvements
 - Explore **custom model fine-tuning** on local datasets.
-- Integrate **Deepseek models into AI solutions** at [Retarns.com](https://retarns.com).
 
 ## License
 This project follows the respective licenses of **Ollama, Deepseek, and Open WebUI**. Ensure compliance when using these tools.
